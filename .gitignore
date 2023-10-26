@@ -1,0 +1,5 @@
+.python-version
+secrets.json
+*-credentials.json
+*.csv
+gsheet_example.ipynb
